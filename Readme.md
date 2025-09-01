@@ -1,6 +1,6 @@
 # Trendo 🛍️
 
-**Trendo** is a modern e-commerce platform built using **Django** and **MySQL**, designed to provide a seamless online shopping experience. The platform includes user-friendly features for both customers and administrators, focusing on scalability and real-time data management.
+**Trendo** is a modern e-commerce platform built using **Django** and **Sqlite**, designed to provide a seamless online shopping experience. The platform includes user-friendly features for both customers and administrators, focusing on scalability and real-time data management.
 
 ## Features
 
@@ -44,6 +44,43 @@
 4. **Run the development server:**
 
 - python manage.py runserver
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](D:\Python\Projects\Trendo\ScreenShots\Screenshot 2025-09-01 185405.png)
+
+---
+
+### 🛒 Checkout Page
+![Checkout Page](C:\Users\Shreyas\OneDrive\Pictures\Screenshots\Screenshot 2025-09-01 185545.png)
+
+---
+
+### 📦 Order Tracker Page
+![Tracker Page](C:\Users\Shreyas\OneDrive\Pictures\Screenshots\Screenshot 2025-09-01 185606.png)
+
+---
+
+### 📞 Contact Page
+![Contact Page](C:\Users\Shreyas\OneDrive\Pictures\Screenshots\Screenshot 2025-09-01 185616.png)
+
+---
+
+### 📝 Blog Page
+![Blog Page]("C:\Users\Shreyas\OneDrive\Pictures\Screenshots\Screenshot 2025-09-01 185624.png")
+
+---
+
+### 📖 Single Blog View
+![Single Blog]("C:\Users\Shreyas\OneDrive\Pictures\Screenshots\Screenshot 2025-09-01 185705.png")
+
+---
+
+### 💬 Blog with Like & Comment Options
+![Blog Interaction](https://raw.githubusercontent.com/your-username/trendo/main/assets/blog_interaction.png)
+
+
 
 ## Contribution
 
